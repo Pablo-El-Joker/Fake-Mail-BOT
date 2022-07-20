@@ -24,7 +24,6 @@
         "DATABASE": {
             "description": "رابط مونجو لو معاك لو مش معاك سيبها زي ما هيي",
             "required": true
-            "value": "mongodb+srv://Zein:black_out0@cluster0.skvcvpd.mongodb.net/?retryWrites=true&w=majority"
         },
         "CHANNEL_ID": {
             "description": "ايدي قناتك ",
