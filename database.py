@@ -1,5 +1,5 @@
 #=================================================================================================
-# Copyright (C) 2022 by szsupunma@Github, < https://github.com/szsupunma >.
+# Copyright (C) 2022 by < https://github.com/Pablo-El-Joker >.
 # Released under the "GNU v3.0 License Agreement".
 # All rights reserved.
 #=================================================================================================
