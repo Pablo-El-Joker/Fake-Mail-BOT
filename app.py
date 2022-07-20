@@ -1,5 +1,5 @@
 #=================================================================================================
-# Copyright (C) 2022 by szsupunma@Github, < https://github.com/szsupunma >.
+# Copyright (C) 2022 by < https://github.com/Pablo-El-Joker >.
 # Released under the "GNU v3.0 License Agreement".
 # All rights reserved.
 #=================================================================================================
@@ -310,7 +310,7 @@ Want to promote your online business ? Want to get people engagement? We are her
 
 Promote whatever you want at lowest and affordable prices.
 
-https://telega.io/catalog_bots/szrosebot/card
+
 
 🔥Your broadcast will reach group also so minimum 50k users see your message.
 """)
